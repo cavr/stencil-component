@@ -1,0 +1,1 @@
+System.register(["./p-5598876f.system.js","./p-3acca1bd.system.js"],(function(){"use strict";var t,e;return{setters:[function(e){t=e.b},function(t){e=t.p}],execute:function(){e().then((function(e){return t([["p-da70dc6e.system",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],e)}))}}}));

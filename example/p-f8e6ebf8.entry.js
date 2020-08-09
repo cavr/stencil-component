@@ -1,0 +1,1 @@
+import{r as t,h as s}from"./p-4619756e.js";const o=class{constructor(s){t(this,s),this.handleOnClick=()=>{console.log("hello")}}getText(){return(this.first||"")+((t=this.middle)?" "+t:"")+((s=this.last)?" "+s:"");var t,s}render(){return s("div",{onClick:this.handleOnClick},"Hello ",this.getText())}};o.style=":host{display:block}";export{o as my_component}

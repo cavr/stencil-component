@@ -1,0 +1,1 @@
+import{b as m}from"./p-4619756e.js";import{p}from"./p-0867ab34.js";p().then(p=>m([["p-f8e6ebf8",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],p));
