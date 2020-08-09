@@ -7,6 +7,6 @@
     </script>
   </head>
   <body>
-    <ion-toggle></ion-toggle>
+    <my-component></my-component>
   </body>
 </html>
